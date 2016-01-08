@@ -55,6 +55,7 @@ if __name__ == '__main__':
      if more_drinks == 'y':
          print(get_drink()) 
          print(random.choice(cocktail_name))
+         print("Thank You Mate")
      else:
          break
      
